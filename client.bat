@@ -1,0 +1,1 @@
+ "D:\Unreal\UnrealEngine\Engine\Binaries\Win64\UE4Editor-Win64-DebugGame.exe" "%CD%\TargetShooter.uproject" 192.168.3.10 -game -log -nosteam

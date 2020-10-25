@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{581A5408-4E52-0EFC-B6B6-759642146B16}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TargetShooter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
