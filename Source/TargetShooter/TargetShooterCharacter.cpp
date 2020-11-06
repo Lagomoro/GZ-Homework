@@ -84,12 +84,12 @@ void ATargetShooterCharacter::OnResetVR()
 
 void ATargetShooterCharacter::TouchStarted(ETouchIndex::Type FingerIndex, FVector Location)
 {
-		Jump();
+		
 }
 
 void ATargetShooterCharacter::TouchStopped(ETouchIndex::Type FingerIndex, FVector Location)
 {
-		StopJumping();
+		
 }
 
 void ATargetShooterCharacter::TurnAtRate(float Rate)
